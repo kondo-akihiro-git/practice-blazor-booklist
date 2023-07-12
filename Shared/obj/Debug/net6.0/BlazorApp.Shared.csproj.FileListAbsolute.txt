@@ -1,0 +1,24 @@
+C:\work\BlazorApp\Shared\bin\Debug\net6.0\BlazorApp.Shared.deps.json
+C:\work\BlazorApp\Shared\bin\Debug\net6.0\BlazorApp.Shared.dll
+C:\work\BlazorApp\Shared\bin\Debug\net6.0\BlazorApp.Shared.pdb
+C:\work\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.csproj.AssemblyReference.cache
+C:\work\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.AssemblyInfoInputs.cache
+C:\work\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.AssemblyInfo.cs
+C:\work\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.csproj.CoreCompileInputs.cache
+C:\work\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.dll
+C:\work\BlazorApp\Shared\obj\Debug\net6.0\refint\BlazorApp.Shared.dll
+C:\work\BlazorApp\Shared\obj\Debug\net6.0\BlazorApp.Shared.pdb
+C:\work\BlazorApp\Shared\obj\Debug\net6.0\ref\BlazorApp.Shared.dll
+C:\work\BlazorApp - コピー_0709\Shared\bin\Debug\net6.0\BlazorApp.Shared.deps.json
+C:\work\BlazorApp - コピー_0709\Shared\bin\Debug\net6.0\BlazorApp.Shared.dll
+C:\work\BlazorApp - コピー_0709\Shared\bin\Debug\net6.0\BlazorApp.Shared.pdb
+C:\work\BlazorApp - コピー_0709\Shared\obj\Debug\net6.0\BlazorApp.Shared.csproj.AssemblyReference.cache
+C:\work\BlazorApp - コピー_0709\Shared\obj\Debug\net6.0\BlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\BlazorApp - コピー_0709\Shared\obj\Debug\net6.0\BlazorApp.Shared.AssemblyInfoInputs.cache
+C:\work\BlazorApp - コピー_0709\Shared\obj\Debug\net6.0\BlazorApp.Shared.AssemblyInfo.cs
+C:\work\BlazorApp - コピー_0709\Shared\obj\Debug\net6.0\BlazorApp.Shared.csproj.CoreCompileInputs.cache
+C:\work\BlazorApp - コピー_0709\Shared\obj\Debug\net6.0\BlazorApp.Shared.dll
+C:\work\BlazorApp - コピー_0709\Shared\obj\Debug\net6.0\refint\BlazorApp.Shared.dll
+C:\work\BlazorApp - コピー_0709\Shared\obj\Debug\net6.0\BlazorApp.Shared.pdb
+C:\work\BlazorApp - コピー_0709\Shared\obj\Debug\net6.0\ref\BlazorApp.Shared.dll
